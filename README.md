@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8"> <!-- 设置字符编码 -->
+    <title>我的第一个网页</title>
+    <link rel="stylesheet" href="styles.css"> <!-- 引入CSS文件 -->
+</head>
+
+
+<body>
+    <h1>Hello World!</h1> <!-- 标题标签 -->
+    <p>欢迎来到我的网页...</p> <!-- 段落标签 -->
+    <script src="scripts.js"></script> <!-- 引入JS文件 -->
+</body>
+</html>
