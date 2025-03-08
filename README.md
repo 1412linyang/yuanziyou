@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8"> <!-- 设置字符编码 -->
-    <title>我的第一个网页</title>
+    <meta charset="UTF-8"> <!-- 设置字符编码 --
   
 </head>
 
